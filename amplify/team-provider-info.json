@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "demo-app-20181207160734-authRole",
+            "UnauthRoleArn": "arn:aws:iam::024700040865:role/demo-app-20181207160734-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::024700040865:role/demo-app-20181207160734-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "demo-app-20181207160734-deployment",
+            "UnauthRoleName": "demo-app-20181207160734-unauthRole",
+            "StackName": "demo-app-20181207160734",
+            "StackId": "arn:aws:cloudformation:eu-west-1:024700040865:stack/demo-app-20181207160734/357d2040-fa3a-11e8-9470-503ac9eaaafd"
+        },
+        "categories": {
+            "auth": {
+                "cognito565eeb1e": {}
+            }
+        }
+    }
+}
